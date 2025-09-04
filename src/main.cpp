@@ -44,7 +44,7 @@
 // VARIABLES
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
-static const unsigned char PROGMEM adafruit_star[] = {  // Star image bitmap array
+static const unsigned char PROGMEM adafruit_star[] = {  // Snowflake bitmap array
   0b00000000, 0b11000000,
   0b00000001, 0b11000000,
   0b00000001, 0b11000000,
